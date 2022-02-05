@@ -76,5 +76,9 @@ function reusableFunction(){
         console.log(result);
         }
         functionWithArgs(5,7);
+
+        function timesFive(para){
+            return para*5;
+    }
 }
  
