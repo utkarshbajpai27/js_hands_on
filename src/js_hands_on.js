@@ -51,5 +51,8 @@ const myArray2 = [
   ];
   
   const myData2 = myArray2[2][1];
+
+  const myArray3= [["John", 23], ["cat", 2]];
+myArray3.push(["dog",3]);
 }
  
