@@ -21,5 +21,7 @@ function myfunction(){
   const myStr4 = "This is the start."+" This is the end."; 
   let myStr5 = "This is the first sentence. ";
 myStr5 += "This is the second sentence.";
+const myName = "hello";
+const myStr6 = "world" + myName + "and I am well!";
 }
  
