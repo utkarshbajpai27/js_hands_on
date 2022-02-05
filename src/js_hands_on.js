@@ -56,5 +56,14 @@ const myArray2 = [
 myArray3.push(["dog",3]);
 const removedFromMyArray = myArray3.shift();
 myArray.unshift(["Paul", 35]);
+
+
+const myList = [
+    ["Chocolate Bar", 15],
+    ["Chocolate Bar", 15],
+    ["Chocolate Bar", 15],
+    ["Chocolate Bar", 15],
+    ["Chocolate Bar", 15]
+    ];
 }
  
