@@ -165,11 +165,11 @@ function nextInLine(arr, item) {
   testEqual("12");
 
   function testGreaterThan(val) {
-    if (val < 100) {  // Change this line
+    if (val <= 100) {  // Change this line
       return "less 100";
     }
   
-    if (val < 10) {  // Change this line
+    if (val <= 10) {  // Change this line
       return "less 10";
     }
   
