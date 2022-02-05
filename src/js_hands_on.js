@@ -40,5 +40,6 @@ const myAdverb = "quickly";
 
 const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + ".";
 const myArray = [["hello",5],[7]]; 
+const myData=myArray[0];
 }
  
