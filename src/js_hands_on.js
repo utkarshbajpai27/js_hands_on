@@ -9,7 +9,7 @@ function myfunction(){
     cool!"; fact = "is awesome!"; console.log(FCC, fact); const sum = 10 + 10;
     const difference = 45 - 33;
     const product = 2.5 * 2.0;
-    const quotient = 66 / 33;
+    const quotient = 4.4 / 2.0; 
     let myVar = 87;
   myVar--;
   const myDecimal = 5.7;
