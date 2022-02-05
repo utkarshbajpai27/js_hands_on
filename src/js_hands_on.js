@@ -27,5 +27,8 @@ const myStr6 = "world" + myName + "and I am well!";
 const someAdjective = "bye";
 let myStr7 = "Learning to code is ";
 myStr7 += someAdjective;
+let lastNameLength = 0;
+const lastName = "Lovelace";
+lastNameLength = lastName.length;
 }
  
