@@ -23,5 +23,9 @@ function myfunction(){
 myStr5 += "This is the second sentence.";
 const myName = "hello";
 const myStr6 = "world" + myName + "and I am well!";
+
+const someAdjective = "bye";
+let myStr7 = "Learning to code is ";
+myStr7 += someAdjective;
 }
  
