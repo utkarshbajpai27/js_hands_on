@@ -106,5 +106,30 @@ function myLocalScope() {
  }
  myLocalScope();
  console.log('outside myLocalScope', myVar);
+
+ const outerWear = "T-Shirt";
+
+ function myOutfit() {
+   const outerWear="sweater";
+   return outerWear;
+ }
+ 
+ myOutfit();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
  
