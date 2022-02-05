@@ -139,7 +139,9 @@ function nextInLine(arr, item) {
     return arr.shift();;
      
    }
-   // Se
+   function welcomeToBooleans() {
+    return true; 
+  }
 
 
 
