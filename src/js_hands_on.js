@@ -8,4 +8,6 @@ a=7;
 var b;
 b=a;
 var c=9;
+var myFirstName="hello";
+var myLastName="hello";
 </script>
