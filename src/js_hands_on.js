@@ -71,6 +71,10 @@ function reusableFunction(){
 }
     reusableFunction();
 
-    
+    function functionWithArgs(para,nara){
+        var result=para+nara;
+        console.log(result);
+        }
+        functionWithArgs(5,7);
 }
  
