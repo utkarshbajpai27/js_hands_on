@@ -55,6 +55,6 @@ const myArray2 = [
   const myArray3= [["John", 23], ["cat", 2]];
 myArray3.push(["dog",3]);
 const myArray = [["John", 23], ["cat", 2]];
-const removedFromMyArray = myArray3.pop();
+const removedFromMyArray = myArray3.shift();
 }
  
