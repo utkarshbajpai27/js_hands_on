@@ -38,6 +38,7 @@ const myAdjective = "big";
 const myVerb = "ran";
 const myAdverb = "quickly";
 
-const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; 
+const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + ".";
+const myArray = ["hello",5]; 
 }
  
