@@ -19,5 +19,7 @@ function myfunction(){
   const myStr2 = '<a href="http://www.example.com" target="_blank">Link</a>';
   var myStr3 = "FirstLine\n\t\\SecondLine\nThirdLine";
   const myStr4 = "This is the start."+" This is the end."; 
+  let myStr5 = "This is the first sentence. ";
+myStr5 += "This is the second sentence.";
 }
  
