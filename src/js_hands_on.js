@@ -32,5 +32,12 @@ const lastName = "Lovelace";
 lastNameLength = lastName[lastName.length-2];
 let myStr8 = "Jello World";
 myStr8= "Hello World"; 
+
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; 
 }
  
