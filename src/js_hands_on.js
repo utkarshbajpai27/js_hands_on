@@ -10,4 +10,10 @@ b=a;
 var c=9;
 var myFirstName="hello";
 var myLastName="hello";
+var d=1;
+var e=5;
+var f="I am a";
+d = d + 1;
+e= e + 5;
+f = f + " String!";
 </script>
