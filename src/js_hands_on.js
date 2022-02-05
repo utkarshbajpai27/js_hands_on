@@ -15,5 +15,7 @@ function myfunction(){
   const myDecimal = 5.7;
   const remainder = 11%3;
 
+  const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
 }
  
