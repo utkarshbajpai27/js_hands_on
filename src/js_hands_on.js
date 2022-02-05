@@ -13,6 +13,7 @@ function myfunction(){
     let myVar = 87;
   myVar--;
   const myDecimal = 5.7;
+  const remainder = 11%3;
 
 }
  
