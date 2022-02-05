@@ -18,5 +18,6 @@ function myfunction(){
   const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
   const myStr2 = '<a href="http://www.example.com" target="_blank">Link</a>';
   var myStr3 = "FirstLine\n\t\\SecondLine\nThirdLine";
+  const myStr4 = "This is the start."+" This is the end."; 
 }
  
