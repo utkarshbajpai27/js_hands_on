@@ -195,5 +195,15 @@ function nextInLine(arr, item) {
   }
   testLogicalOr(10);
 
+  function testElse(val) {
+    if(val<=5){
+  return "5 or Smaller";
+  } else {
+      return "Bigger than 5";
+  }
+  }
+  testElse(7);
+  
+
 }
  
