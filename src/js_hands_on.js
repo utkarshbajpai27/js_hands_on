@@ -30,5 +30,7 @@ myStr7 += someAdjective;
 let lastNameLength = 0;
 const lastName = "Lovelace";
 lastNameLength = lastName[0];
+let myStr8 = "Jello World";
+myStr8= "Hello World"; 
 }
  
