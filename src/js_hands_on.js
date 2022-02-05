@@ -154,7 +154,7 @@ function nextInLine(arr, item) {
   trueOrFalse(false);
 
   function testEqual(a,b) {
-    if (typeof 10 ===typeof "12"){
+    if (typeof a!="12"){
       return "Equal";
     }
     return "Not Equal";
