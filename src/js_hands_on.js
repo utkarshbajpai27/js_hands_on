@@ -29,7 +29,7 @@ let myStr7 = "Learning to code is ";
 myStr7 += someAdjective;
 let lastNameLength = 0;
 const lastName = "Lovelace";
-lastNameLength = lastName[lastName.length-1];
+lastNameLength = lastName[lastName.length-2];
 let myStr8 = "Jello World";
 myStr8= "Hello World"; 
 }
