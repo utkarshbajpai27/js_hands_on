@@ -42,5 +42,14 @@ const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + my
 const myArray = [["hello",5],[7]]; 
 const myData=myArray[0];
 myArray[0]=45;
+
+const myArray2 = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+  ];
+  
+  const myData2 = myArray2[2][1];
 }
  
