@@ -165,11 +165,12 @@ function nextInLine(arr, item) {
   testEqual("12");
 
   function testGreaterThan(val) {
-    if (val <= 100) {  // Change this line
+    if (val <= 100) { 
       return "less 100";
     }
   
-    if (val <= 10) {  // Change this line
+    if (val <= 10) { 
+
       return "less 10";
     }
   
@@ -178,6 +179,13 @@ function nextInLine(arr, item) {
   
   testGreaterThan(10);
 
+  function testLogicalAnd(val) {
+    if(val<=50 && val>=25){
+      return "Yes";
+    }
+  return "No";
+  }
+  testLogicalAnd(10);
 
 
 
